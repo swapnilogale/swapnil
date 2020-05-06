@@ -1,0 +1,13 @@
+[
+  {
+      "grouping":"Core skills",
+      "skills":[ "Technical Communication","Content Strategy","Information architecture","Product documentation","UX Writing","Content Design"]
+  },{
+      "grouping":"Content",
+      "skills":[ "Online Help","User Guides","Release Notes","Developer Docs","Wikis","API documentation","Error messages","Product content"]
+  },
+  {
+      "grouping":"Tools",
+      "skills":[ "MS Office","Help Authoring tools","Wikis","Confluence","JIRA","Wordpress","SnagIT","Swagger","Git","Analytics"]
+  }
+]

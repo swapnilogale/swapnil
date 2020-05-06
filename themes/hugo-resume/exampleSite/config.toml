@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Swapnil Portfolio"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Swapnil"
+    lastName = "Ogale"
+    address = "Melbourne, Australia"
+    phone = "61-422593837"
+    contactNote = "Technical Writer"
+    profileImage = "images/SOHead.png"
+    email = "swapnilogale@netscape.net"
+    description = "Technical Writer with over 10+ years of experience (including remote) with demonstrated experience in technical documentation, content design, information architecture, product content, and leading/managing documentation projects."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/swapnilogale/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/swapnilogale/"
