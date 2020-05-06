@@ -1,9 +1,9 @@
-baseURL = "swapnilogale.netlify.app"
+baseURL = "https://swapnilogale.github.io/"
 languageCode = "en-us"
 title = "Swapnil Portfolio"
 theme = "hugo-resume"
 customCSS = ["resume.css"]
-publishDir = "public"
+publishDir = "swapnilogale.github.io"
 
 [params]
     firstName = "Swapnil"
