@@ -1,13 +1,13 @@
 ---
 title: "SDK documentation"
-date: 2020-05-02T22:53:53+10:00
+date: 2020-04-30T21:57:42+10:00
 featured: true
-description: "Create documentation for SDK developers to integrate with a fintech product."
-tags: ["API","SDK docs","Developer Hub","iOS","Android","Fintech"]
+description: "Freelancing with a fintech startup, I reviewed and created documentation for SDK developers to integrate their iOS and Android devices with the SDK product."
+tags: ["API","SDK docs","Developer Portal","iOS","Android","Fintech"]
 image: "/img/zip.png"
 link: "https://zip-sdk.readme.io/"
 fact: "Interesting little tidbit shown below image on summary and detail page"
-weight: 500
+weight: 200
 sitemap:
   priority : 0.8
 ---
@@ -27,3 +27,10 @@ Along the way, I also contributed to reviewing the information architecture and 
 
 Lastly, I created a few additional topics to provide business context, structure and flow to the SDK documentation.
 ![Zip SDK Developer Hub](/img/zip-ia.png)
+
+### Impact
+
+- Edited and reviewed 25+ topics for voice and tone consistencies.
+- Improved the navigation and information architecture of the documentation portal.
+
+### Links

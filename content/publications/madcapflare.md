@@ -4,8 +4,8 @@ date: 2018-01-01
 pubtype: "Article"
 featured: true
 description: "Wrote a guest blog post for Madcap Software, around justifying the use of single sourcing in documentation."
-tags: ["Madcap Flare","Single Sourcing","Technical Communication"]
 image: "/img/flare.png"
+tags: ["Madcap Flare","Single Sourcing","Technical Communication"]
 link: "https://www.madcapsoftware.com/blog/guest-post-justifying-single-sourcing/"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 500

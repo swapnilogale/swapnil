@@ -13,7 +13,6 @@ sitemap:
   priority : 0.8
 ---
 
-
 Product managers swear by them, development managers are keen on producing them and quite so often your developers or engineers will help (grudgingly) craft them.
 
 Release notes are everywhere, be it a product or a process. They are quite often your first point of communication with customers eager to know what’s new or fixed in your product or process. In some instances, they also become the most frequently or commonly accessed content on your documentation site.

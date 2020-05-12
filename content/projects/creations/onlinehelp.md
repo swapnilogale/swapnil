@@ -1,13 +1,13 @@
 ---
 title: "Online Help"
-date: 2020-05-02T21:57:42+10:00
+date: 2020-04-02T21:57:42+10:00
 featured: true
-description: "Create Online Help, What's New, Release Notes for a project management software for architects and engineers."
+description: "Working remotely part-time with a niche startup based in the US, I scope, plan, and manage Online Help (100+ topics), What's New, Release Notes for a project management software for architects and engineers."
 tags: ["Online Help","Release Notes","Project Management","Architecture"]
 image: "/img/planifi.png"
 link: "http://help.planifi.net/Visualizer/Content/Home.htm"
 fact: "Interesting little tidbit shown below image on summary and detail page"
-weight: 500
+weight: 400
 sitemap:
   priority : 0.8
 ---
@@ -27,4 +27,12 @@ As part of this, I have worked with the startup co-founder to understand user re
 - Analysed existing documentation and migrated content from RoboHelp to Madcap Flare.
 - Scoped, planned and created documentation for 3 standalone desktop projects: Analyzer, Visualizer and Forecasting.
 - Created Release Notes for users across multiple product version releases.
-- Currently working on creating [user assistance](http://help.planifi.net/visualplanning/Content/Home.htm) for their new product [Visual Planning](https://www.planifi.net/visual-planning).
+- Currently working on creating [user assistance](http://help.planifi.net/visualplanning/Content/Home.htm) for their new product
+[Visual Planning](https://www.planifi.net/visual-planning).
+
+### Impact
+
+- Collaborated with the startup since 2015, and documented over 4 different products, and 100+ topics.
+- The technical documentation, release notes and videos have been reused across multiple channels, including support and training and customer feedback has been very positive.
+
+### Links

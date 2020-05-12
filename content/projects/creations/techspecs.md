@@ -2,12 +2,12 @@
 title: "Technical specifications and API documentation"
 date: 2020-04-26T22:33:28+10:00
 featured: true
-description: "Worked on 2 Australia-wide distributed energy initiatives documenting technical specifications, API design, user guides, and reference documentation."
-tags: ["Tech Specs","Distributed Energy","Virtual Power Plants","REST API","Market Portals"]
+description: "Managed technical documentation for 2 Australia-wide distributed energy initiatives documenting technical specifications, API design, user guides, and reference documentation."
+tags: ["Tech Specs","Distributed Energy","Virtual Power Plants","REST API","Market Portals","Developer Portal"]
 image: "/img/der.png"
 link: "https://www.aemo.com.au/energy-systems/electricity/der-register"
 fact: ""
-weight: 500
+weight: 300
 sitemap:
   priority : 0.8
 ---
@@ -16,7 +16,7 @@ sitemap:
 
 The role of Australian Energy Market Operator (AEMO) is to manage the electricity and gas systems and markets across Australia, helping to ensure Australians have access to affordable, secure and reliable energy.
 
-I was part of AEMO's distributed energy initiatives and market trial projects, working on multiple teams to document a range of content for different audiences.
+I was part of AEMO's distributed energy initiatives and a market trial project, working with multiple teams to document a range of content for different audiences.
 
 ### Opportunity
 I was assigned to manage the entire suite of documentation, for two Australia-wide distributed energy initiatives documenting technical specifications, API design, user guides, and reference documentation.
@@ -46,3 +46,10 @@ Over the course of the two projects, I worked on:
 - QRGs
 - UI text
 - API Developer Portal
+
+### Impact
+
+- Delivered over 700 pages of technical and user content for a range of users across technical and business teams.
+- Created documentation that formed a crucial part of an Australia wide distributed energy project, used by over 20 energy retailers and over 100 installers.
+
+### Links
