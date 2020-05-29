@@ -1,6 +1,6 @@
 ---
 title: "Justifying the use of Single Sourcing"
-date: 2018-01-01
+date: 2017-02-02
 pubtype: "Article"
 featured: true
 description: "Wrote a guest blog post for Madcap Software, around justifying the use of single sourcing in documentation."
