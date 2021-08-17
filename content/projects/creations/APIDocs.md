@@ -14,18 +14,18 @@ sitemap:
 ---
 
 ### Context
-SEEK is currently refreshing its API integration products for partners and hirers.
+SEEK was refreshing its API integration products for partners and hirers.
 
 ### Problem
-The various SEEK teams are working on a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team is working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.
+The various SEEK teams were working on building and delivering a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team was working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.
 
-As part of this project, they required a **Technical Writer** to assist with redesigning the onboarding portal and review the developer portal content for consistency and accuracy. They also needed someone to refresh site taxonomy & information architecture.
+As part of this project, they required a **Technical Writer** to assist with redesigning the onboarding portal and review the developer portal content for consistency and accuracy. They also needed someone to refresh the site taxonomy & information architecture.
 
 ### Contribution
 
 I started with understanding the problem they were trying to solve, by talking to various stakeholders including the Partner Integration team, Product Managers and Developers across multiple product feature areas.
 
-Since the start of the project in Feb, I have:
+Over the course of the project, I:
 
 - Completed a content audit of the existing onboarding and developer portals.
 - Facilitated a card sorting exercise to identify key themes and groups.
@@ -33,9 +33,9 @@ Since the start of the project in Feb, I have:
 - Initiated a style guide to capture key decisions around content styles.
 - Reviewed 2 key use cases of the SEEK API and edited these to make them clear to understand.
 - Created authentication topics for partners to understand how to authenticate for using the SEEK API.
-- Written documentation for 2 use cases of the SEEK API.
+- Wrote documentation for 2 use cases of the SEEK API.
 
-![Authentication](/img/seek_api.png)
+![Authentication](../../img/seek_api.png)
 
 ### Impact
 

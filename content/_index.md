@@ -11,7 +11,7 @@ outputs:
 ---
 <br />
 
-I have over 14 years of technical writing experience, including 5 years of part-time remote freelance work, in:
+I have over 15 years of technical writing experience, including 6 years of remote freelance work, in:
 
 - Scoping and creating technical content,
 - Designing information architecture strategies,
