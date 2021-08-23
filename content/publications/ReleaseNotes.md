@@ -1,5 +1,5 @@
 ---
-title: "What's the Deal with Release Notes?"
+title: "What's the deal with Release notes?"
 date: 2019-05-03
 pubtype: "Talk"
 featured: true

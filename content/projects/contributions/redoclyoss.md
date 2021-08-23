@@ -22,7 +22,7 @@ I currently manage the administrative part of the project on behalf of Redocly, 
 
 - Work as a communication liaison between Google and Redocly on all matters related to Season of Docs 2021 program.
 - Work with technical writers and the open source community around promotion, setting expectations and deliverables for the program.
-- Mentor technical writers working on Redocly open-source projects (Redoc and OpenAPI cli)
+- Mentor technical writers working on Redocly open-source projects (Redoc and OpenAPI cli).
 
 ### Key learnings and deliverables
 
@@ -32,7 +32,7 @@ _The project is still ongoing until November 2021_.
 
 So far, in the last 2 months, I have been learning the ropes of:
 
-- Understanding the project management side of open source documentation.
+- The project management side of open source documentation.
 - Hiring, training and mentoring technical writers for the projects.
 - Keeping open source documentation efforts sustainable over long term.
 

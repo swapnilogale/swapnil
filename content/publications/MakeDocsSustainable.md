@@ -1,5 +1,5 @@
 ---
-title: "Making Content Sustainable"
+title: "Making content sustainable"
 date: 2019-10-16
 pubtype: "Talk"
 featured: true
