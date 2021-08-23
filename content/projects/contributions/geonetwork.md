@@ -13,15 +13,18 @@ sitemap:
 ---
 
 ### Proposal
+
 My proposal for the GeoNetwork project involved providing an experienced Technical Writer's perspective to help amplify the quality and effectiveness of some of the existing writing initiatives within the GeoNetwork project, one of the projects under the umbrella of the Open Source Geospatial Foundation (OSGeo).
 
 ### Project scope
+
 - Review GeoNetwork docs, using existing analysis provided by team: https://wiki.osgeo.org/wiki/Season_of_Docs_Ideas_2019#GeoNetwork
 - Create best-practice templates that writing volunteers can use as a basis for creating new or standardising existing content.
 - Provide tech writing advice around structure and style to existing writing volunteers.
 - Review and refine existing and emerging content for good documentation practices.
 
 ### Key learnings and deliverables
+
 This was my first contribution to an open source project of this nature and it came with a lot of learnings.
 
 - Understanding the technical, user and translation requirements of open source documentation

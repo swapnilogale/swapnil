@@ -35,7 +35,7 @@ Over the course of the project, I:
 - Created authentication topics for partners to understand how to authenticate for using the SEEK API.
 - Wrote documentation for 2 use cases of the SEEK API.
 
-![Authentication](../../img/seek_api.png)
+![Authentication](/img/seek_api.png)
 
 ### Impact
 

@@ -1,13 +1,13 @@
 [
   {
       "grouping":"Core skills",
-      "skills":[ "Technical Communication","Content Strategy","Information Architecture","Product Documentation","UX Writing","Content Design"]
+      "skills":[ "Technical communication","Content strategy","Information architecture","Product documentation","UX Writing","Content design"]
   },{
       "grouping":"Content",
-      "skills":[ "Online Help","User Guides","Release Notes","Technical Specifications", "Developer Docs","Wikis","API Documentation","Error Messages","Product Content"]
+      "skills":[ "Online help","User guides","Release notes","Technical specifications", "Developer docs","Wikis","API documentation","Error messages","Product content"]
   },
   {
       "grouping":"Tools",
-      "skills":[ "MS Office","Help Authoring (Madcap Flare, RoboHelp)","Wikis","Confluence","JIRA","Wordpress","Markdown","Swagger","Git","Analytics","Postman"]
+      "skills":[ "Redocly", "Text editors", "MS Office","Help Authoring (Madcap Flare, RoboHelp)","Wikis","Confluence","JIRA","Wordpress","Markdown","Swagger","Git","Analytics","Postman"]
   }
 ]

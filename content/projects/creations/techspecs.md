@@ -19,6 +19,7 @@ The role of Australian Energy Market Operator (AEMO) is to manage the electricit
 I was part of AEMO's distributed energy initiatives and a market trial project, working with multiple teams to document a range of content for different audiences.
 
 ### Opportunity
+
 I was assigned to manage the entire suite of documentation, for two Australia-wide distributed energy initiatives documenting technical specifications, API design, user guides, and reference documentation.
 
 - [Distributed Energy Resources Register (DERR)](https://www.aemo.com.au/energy-systems/electricity/der-register)
@@ -37,6 +38,7 @@ Over the course of the two projects, I worked on:
 ![Technical Spec 1](/img/TS2.png)
 
 #### Project deliverables
+
 - Online Help
 - [User Guides](https://www.aemo.com.au/-/media/files/electricity/nem/it-systems-and-change/2020/guide-to-der-register-b2b-portal.pdf)
 - [Technical Specifications](https://www.aemo.com.au/-/media/files/electricity/nem/it-systems-and-change/2020/der-register-release-schedule-and-technical-specification.pdf?la=en)
