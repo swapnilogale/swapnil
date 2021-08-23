@@ -6,35 +6,76 @@
     <description>Recent content in Tags on Swapnil Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docs</title>
+      <link>https://swapnilogale.github.io/tags/docs/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/tags/docs/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://swapnilogale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open-source</title>
+      <link>https://swapnilogale.github.io/tags/open-source/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>season-of-docs</title>
+      <link>https://swapnilogale.github.io/tags/season-of-docs/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/tags/season-of-docs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>API</title>
       <link>https://swapnilogale.github.io/tags/api/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Aug 2021 21:57:42 +1000</pubDate>
       
       <guid>https://swapnilogale.github.io/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>CLI</title>
+      <link>https://swapnilogale.github.io/tags/cli/</link>
+      <pubDate>Tue, 17 Aug 2021 21:57:42 +1000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Developer Portal</title>
       <link>https://swapnilogale.github.io/tags/developer-portal/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Aug 2021 21:57:42 +1000</pubDate>
       
       <guid>https://swapnilogale.github.io/tags/developer-portal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>docs</title>
-      <link>https://swapnilogale.github.io/tags/docs/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <title>Redocly</title>
+      <link>https://swapnilogale.github.io/tags/redocly/</link>
+      <pubDate>Tue, 17 Aug 2021 21:57:42 +1000</pubDate>
       
-      <guid>https://swapnilogale.github.io/tags/docs/</guid>
+      <guid>https://swapnilogale.github.io/tags/redocly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference docs</title>
+      <link>https://swapnilogale.github.io/tags/reference-docs/</link>
+      <pubDate>Tue, 17 Aug 2021 21:57:42 +1000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/tags/reference-docs/</guid>
       <description></description>
     </item>
     
@@ -125,24 +166,6 @@
       <pubDate>Thu, 30 Apr 2020 21:57:42 +1000</pubDate>
       
       <guid>https://swapnilogale.github.io/tags/sdk-docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>https://swapnilogale.github.io/tags/open-source/</link>
-      <pubDate>Tue, 28 Apr 2020 23:14:37 +1000</pubDate>
-      
-      <guid>https://swapnilogale.github.io/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>season-of-docs</title>
-      <link>https://swapnilogale.github.io/tags/season-of-docs/</link>
-      <pubDate>Tue, 28 Apr 2020 23:14:37 +1000</pubDate>
-      
-      <guid>https://swapnilogale.github.io/tags/season-of-docs/</guid>
       <description></description>
     </item>
     

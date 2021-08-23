@@ -6,10 +6,17 @@
     <description>Recent content in Documentation Projects on Swapnil Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 21:57:42 +1000</lastBuildDate>
-    
-	<atom:link href="https://swapnilogale.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 17 Aug 2021 21:57:42 +1000</lastBuildDate><atom:link href="https://swapnilogale.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product documentation, Information architecture, Content strategy</title>
+      <link>https://swapnilogale.github.io/projects/creations/productdocs/</link>
+      <pubDate>Tue, 17 Aug 2021 21:57:42 +1000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/projects/creations/productdocs/</guid>
+      <description>Context As Redocly&amp;rsquo;s first Technical Writer Advocate, the goal of this role is to help the community of technical writers by advocating for a docs-like-code approach and offering them the skills and know-how for how to make it happen.
+Problem Redocly makes API design and documentation software with the goal to improve the writer and developer experience.
+As part of this goal, they required a Technical Writer Advocate to not only assist with writing technical content, but also needed someone to</description>
+    </item>
     
     <item>
       <title>Developer Portals</title>
@@ -17,8 +24,8 @@
       <pubDate>Mon, 30 Mar 2020 21:57:42 +1000</pubDate>
       
       <guid>https://swapnilogale.github.io/projects/creations/apidocs/</guid>
-      <description>Context SEEK is currently refreshing its API integration products for partners and hirers.
-Problem The various SEEK teams are working on a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team is working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.
+      <description>Context SEEK was refreshing its API integration products for partners and hirers.
+Problem The various SEEK teams were working on building and delivering a single API built using GraphQL, OAuth 2.0 and optional webhooks. The Partner Integration team was working on refreshing the onboarding experience for partners and hirers, to improve process efficiencies and streamline the self-serving nature of the process.
 As part of this project, they required a Technical Writer to assist with redesigning the onboarding portal and review the developer portal content for consistency and accuracy.</description>
     </item>
     
