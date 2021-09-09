@@ -22,8 +22,16 @@
     <lastmod>2020-04-30T21:57:42+10:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://swapnilogale.github.io/publications/techcommpodcast/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://swapnilogale.github.io/projects/creations/techspecs/</loc>
     <lastmod>2020-04-26T22:33:28+10:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://swapnilogale.github.io/publications/techwriter/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://swapnilogale.github.io/projects/creations/onlinehelp/</loc>
@@ -44,6 +52,10 @@
   </url><url>
     <loc>https://swapnilogale.github.io/projects/contributions/redoclyoss/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://swapnilogale.github.io/publications/reviewpost/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://swapnilogale.github.io/publications/apipost/</loc>
@@ -105,20 +117,50 @@
     <loc>https://swapnilogale.github.io/tags/reference-docs/</loc>
     <lastmod>2021-08-17T21:57:42+10:00</lastmod>
   </url><url>
+    <loc>https://swapnilogale.github.io/tags/advocacy/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/community/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/podcast/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://swapnilogale.github.io/publications/</loc>
-    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
     <priority>0.6</priority>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/the-not-boring-tech-writer/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/git/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/plain-text/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/technical-writer/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/templates/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/wysiwyg/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/documentation/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/feedback/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://swapnilogale.github.io/tags/review/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://swapnilogale.github.io/tags/rest-api/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://swapnilogale.github.io/tags/community/</loc>
-    <lastmod>2020-05-03T12:25:06+10:00</lastmod>
-  </url><url>
     <loc>https://swapnilogale.github.io/tags/conference/</loc>
-    <lastmod>2020-05-03T12:25:06+10:00</lastmod>
-  </url><url>
-    <loc>https://swapnilogale.github.io/tags/documentation/</loc>
     <lastmod>2020-05-03T12:25:06+10:00</lastmod>
   </url><url>
     <loc>https://swapnilogale.github.io/tags/meetups/</loc>
@@ -186,9 +228,6 @@
   </url><url>
     <loc>https://swapnilogale.github.io/tags/kubeflow/</loc>
     <lastmod>2020-01-13T23:33:43+11:00</lastmod>
-  </url><url>
-    <loc>https://swapnilogale.github.io/tags/podcast/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://swapnilogale.github.io/tags/write-the-docs-australia/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
