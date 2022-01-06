@@ -8,7 +8,7 @@ tags: ["APIs","Documentation","Technical Communication"]
 image: "/img/apidays.png"
 link: "https://www.youtube.com/watch?v=m6eOIXhQp0k"
 fact: "Only documentation related talk at the apidays Australia!"
-weight: 400
+weight: 200
 sitemap:
   priority : 0.8
 ---
