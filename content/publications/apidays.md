@@ -10,11 +10,11 @@ link: "https://www.youtube.com/watch?v=m6eOIXhQp0k"
 fact: "Only documentation related talk at the apidays Australia!"
 weight: 400
 sitemap:
-  priority : 0.9
+  priority : 0.8
 ---
 
 
-In this talk, I spoke about the secret sauce behind successful APIs - documentation. The talk covered:
+In this talk, I spoke about the secret sauce behind successful APIs - documentation. This talk covered:
 
 - Problem areas with API projects from experience,
 - An API's journey from a producer as well as the consumer perspectives, and
