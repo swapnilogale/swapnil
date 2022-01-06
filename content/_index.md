@@ -18,7 +18,7 @@ I have over 15 years of technical writing experience, including 6 years of remot
 - Leading documentation projects, and
 - Managing technical writing teams.
 
-For the last 3-4 years, I have been working with software and API developement teams, creating technical specifications, API documentation, and content for developer portals.
+For the last 3-4 years, I have been working with software and API development teams, creating technical specifications, API documentation, and content for developer portals.
 
 I initiated the [Write the Docs](https://www.writethedocs.org/) community in Australia, and contributed to an open source project in the [Google Season of Docs](https://developers.google.com/season-of-docs/docs/2019/participants) in 2019.
 

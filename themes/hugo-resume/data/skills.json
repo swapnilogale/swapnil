@@ -1,10 +1,10 @@
 [
   {
       "grouping":"Core skills",
-      "skills":[ "Technical communication","Content strategy","Information architecture","Product documentation","UX Writing","Content design"]
+      "skills":[ "Technical communication","Content strategy","Information architecture","Product documentation","UX Writing","Content design and development", "Open source documentation"]
   },{
       "grouping":"Content",
-      "skills":[ "Online help","User guides","Release notes","Technical specifications", "Developer docs","Wikis","API documentation","Error messages","Product content"]
+      "skills":[ "Online help","User guides","Release notes","Technical specifications", "Developer docs","Wikis","API documentation","Error messages","Product content", "Developer Portals"]
   },
   {
       "grouping":"Tools",
