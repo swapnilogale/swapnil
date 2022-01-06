@@ -11,7 +11,7 @@ theme = "hugo-resume"
     contactNote = "Technical Writer"
     profileImage = "images/SOHead.png"
     email = "swapnilogale@netscape.net"
-    description = "Technical Writer with over 10+ years of experience (including remote) with demonstrated experience in technical documentation, content design, information architecture, product content, and leading/managing documentation projects."
+    description = "Technical Writer with over 16 years of experience (including remote) with demonstrated experience in technical documentation, content design, information architecture, product content, and leading/managing documentation projects."
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
@@ -25,7 +25,14 @@ theme = "hugo-resume"
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/swapnilogale/"
 
+[[params.handles]]
+    name = "Polywork"
+    link = "https://www.polywork.com/swapnil"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/swapnilogale/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/swapnilogale"

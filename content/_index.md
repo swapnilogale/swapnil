@@ -11,7 +11,7 @@ outputs:
 ---
 <br />
 
-I have over 15 years of technical writing experience, including 6 years of remote work, in:
+I have over 16 years of technical writing experience, including 6 years of remote work, in:
 
 - Scoping and creating technical content,
 - Designing information architecture strategies,
@@ -20,6 +20,6 @@ I have over 15 years of technical writing experience, including 6 years of remot
 
 For the last 3-4 years, I have been working with software and API development teams, creating technical specifications, API documentation, and content for developer portals.
 
-I initiated the [Write the Docs](https://www.writethedocs.org/) community in Australia, and contributed to an open source project in the [Google Season of Docs](https://developers.google.com/season-of-docs/docs/2019/participants) in 2019.
+I initiated the [Write the Docs](https://www.writethedocs.org/) community in Australia, contributed to an open source project in the [Google Season of Docs](https://developers.google.com/season-of-docs/docs/2019/participants) in 2019, and managed Redocly's open source documentation project and mentored technical writers as part of [Google Season of Docs 2021](https://developers.google.com/season-of-docs/docs/participants).
 
 Since 2014, I have been adding to my professional equity through public speaking and have presented at technical documentation conferences in India, US, Europe, Australia, and New Zealand.
