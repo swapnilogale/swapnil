@@ -6,7 +6,17 @@
     <description>Recent content in documentation on Swapnil Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The secret sauce behind successful APIs</title>
+      <link>https://swapnilogale.github.io/publications/apidays/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/publications/apidays/</guid>
+      <description>In this talk, I spoke about the secret sauce behind successful APIs - documentation. The talk covered:
+ Problem areas with API projects from experience, An API&amp;rsquo;s journey from a producer as well as the consumer perspectives, and How to use documentation along each step of the API lifecycle.  </description>
+    </item>
+    
     <item>
       <title>What&#39;s the deal with Release notes?</title>
       <link>https://swapnilogale.github.io/publications/releasenotes/</link>
