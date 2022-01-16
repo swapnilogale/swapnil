@@ -2,7 +2,7 @@
 title: "Technical specifications and API documentation"
 date: 2020-04-26T22:33:28+10:00
 featured: true
-description: "Managed technical documentation for 2 Australia-wide distributed energy initiatives documenting technical specifications, API design, user guides, and reference documentation."
+description: "Managed technical content for Australian distributed energy initiatives. Documented technical specifications, API design docs, user guides, and reference information."
 tags: ["Tech Specs","Distributed Energy","Virtual Power Plants","REST API","Market Portals","Developer Portal"]
 image: "/img/der.png"
 link: "https://www.aemo.com.au/energy-systems/electricity/der-register"

@@ -2,7 +2,7 @@
 title: "Process documentation and work instructions"
 date: 2020-04-26T23:47:07+10:00
 featured: true
-description: "Led a team of technical writers instrumental in deploying technical documentation online to over 5 operational teams, and across 150+ users, giving the content experience an instant boost."
+description: "Led a team of technical writers instrumental in deploying technical documentation to over 5 operational teams, and across 150+ users."
 tags: ["Process Docs","Work Instructions","Process Maps","Telecommunications"]
 image: "/img/nbnco.png"
 link: ""

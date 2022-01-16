@@ -2,7 +2,7 @@
 title: "Developer Portals"
 date: 2020-03-30T21:57:42+10:00
 featured: true
-description: "In a relatively short space of time of 3 months, I set up a doc workflow process and toolchain, managed to get 6 doc Pull Requests completed, set up a style guide template and created mockups of partner and developer sites for external Partners."
+description: "Set up a doc workflow process and toolchain, wrote API documentation, and designed mockups of partner and developer sites for external Partners."
 image: "/img/seek_dev.png"
 tags: ["GraphQL","API", "SEEK", "Developer Portal", "Webhooks"]
 link: "https://developer.seek.com/"

@@ -2,7 +2,7 @@
 title: "Online Help"
 date: 2020-04-02T21:57:42+10:00
 featured: true
-description: "Working remotely part-time with a niche startup based in the US, I scope, plan, and manage Online Help (100+ topics), What's New, Release Notes for a project management software for architects and engineers."
+description: "Scoped, planned, and created Online Help (100+ topics), What's New, Release Notes for a project management software for architects and engineers."
 tags: ["Online Help","Release Notes","Project Management","Architecture"]
 image: "/img/planifi.png"
 link: "http://help.planifi.net/Visualizer/Content/Home.htm"

@@ -2,7 +2,7 @@
 title: "Product documentation, Information architecture, Content strategy"
 date: 2021-08-17T21:57:42+10:00
 featured: true
-description: "Over the last 10 months, I have been working as the Technical Writer Advocate at Redocly, a leader in enterprise API reference and documentation portals."
+description: "Working as a Technical Writer Advocate, contributing to, and managing product docs. Leading information architecture and content strategy projects."
 image: "/img/redocly.png"
 tags: ["API", "Redocly", "Developer Portal", "Reference docs", "CLI"]
 link: "https://redoc.ly/docs"
