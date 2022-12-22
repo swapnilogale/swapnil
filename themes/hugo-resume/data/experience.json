@@ -1,9 +1,15 @@
 [
     {
+        "role":"Technical Writer",
+        "company":"Amazon Web Services",
+        "summary":"Collaborate with, and support the AWS APJ (Asia Pacific & Japan) Solutions Engineering team, for creating and maintaining customer-facing technical documentation for customisable solutions.",
+        "range":"Apr 2022 - Current"
+    },
+    {
         "role":"Technical Writer Advocate",
         "company":"Redocly",
         "summary":"Help the documentation community by advocating for a docs-like-code approach and offering them the skills and know-how to make it happen. Managing open-source documentation program as part of Google Season of Docs.",
-        "range":"Nov 2020 - Current"
+        "range":"Nov 2020 - Apr 2022"
     },
     {
         "role":"Senior Technical Writer (Contract)",
