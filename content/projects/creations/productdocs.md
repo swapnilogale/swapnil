@@ -8,7 +8,7 @@ tags: ["API", "Redocly", "Developer Portal", "Reference docs", "CLI"]
 link: "https://redoc.ly/docs"
 fact: ""
 featured: true
-weight: 100
+weight: 300
 sitemap:
   priority : 0.5
 ---

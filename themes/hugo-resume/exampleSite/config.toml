@@ -26,10 +26,6 @@ theme = "hugo-resume"
     link = "https://www.linkedin.com/in/swapnilogale/"
 
 [[params.handles]]
-    name = "Polywork"
-    link = "https://www.polywork.com/swapnil"
-
-[[params.handles]]
     name = "GitHub"
     link = "https://github.com/swapnilogale/"
 

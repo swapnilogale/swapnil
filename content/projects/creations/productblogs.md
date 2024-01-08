@@ -8,7 +8,7 @@ tags: ["Blog","API", "documentation", "marketing"]
 link: "https://redoc.ly/blog/"
 fact: ""
 featured: true
-weight: 100
+weight: 200
 sitemap:
   priority : 0.7
 ---

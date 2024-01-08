@@ -7,7 +7,7 @@ tags: ["API","SDK docs","Developer Portal","iOS","Android","Fintech"]
 image: "/img/zip.png"
 link: "https://zip-sdk.readme.io/"
 fact: "Interesting little tidbit shown below image on summary and detail page"
-weight: 200
+weight: 600
 sitemap:
   priority : 0.8
 ---

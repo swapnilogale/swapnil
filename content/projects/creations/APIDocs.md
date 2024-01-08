@@ -8,7 +8,7 @@ tags: ["GraphQL","API", "SEEK", "Developer Portal", "Webhooks"]
 link: "https://developer.seek.com/"
 fact: ""
 featured: true
-weight: 100
+weight: 400
 sitemap:
   priority : 0.7
 ---
