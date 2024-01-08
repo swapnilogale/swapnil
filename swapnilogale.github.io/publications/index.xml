@@ -6,7 +6,27 @@
     <description>Recent content in Presentations and Publications on Swapnil Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://swapnilogale.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redocly for technical writers</title>
+      <link>https://swapnilogale.github.io/publications/redoclypost/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/publications/redoclypost/</guid>
+      <description>As part of my Technical Writer Advocate role at Redocly, I was often asked by other technical writers in the community about they could use Redocly for their API documentation.
+I wrote about my experiences with Redocly, and how other technical writers could get started with Redocly products to create awesome API documentation. This article captures the workflow for technical writers wanting to get the best out of Redocly products.</description>
+    </item>
+    
+    <item>
+      <title>Embrace Discomfort and Challenge the Status Quo for Advocacy and Visibility</title>
+      <link>https://swapnilogale.github.io/publications/insidetechcomm/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://swapnilogale.github.io/publications/insidetechcomm/</guid>
+      <description>I chatted with the host of Inside TechComm about:
+ What does the technical communication landscape look like in Australia? What is a technical writer advocate? How did Swapnil perform his own tech comm retrospective to elevate his role and make it visible? What is the Amazon narrative, and how can someone use this narrative before starting a project? What are some strategies to raise the profile of a tech writer at a company and beyond?</description>
+    </item>
+    
     <item>
       <title>The secret sauce behind successful APIs</title>
       <link>https://swapnilogale.github.io/publications/apidays/</link>
