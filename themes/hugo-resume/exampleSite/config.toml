@@ -9,9 +9,9 @@ theme = "hugo-resume"
     address = "Melbourne, Australia"
     phone = "61-422593837"
     contactNote = "Technical Writer"
-    profileImage = "images/SHead.png"
+    profileImage = "images/SOHead.png"
     email = "swapnilogale@netscape.net"
-    description = "Technical Writer with over 16 years of experience (including remote) with demonstrated experience in technical documentation, content design, information architecture, product content, and leading/managing documentation projects."
+    description = "Technical Writer with over 17 years of experience (including remote) with demonstrated experience in technical documentation, content design, information architecture, product content, and leading/managing documentation projects."
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
