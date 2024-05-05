@@ -8,6 +8,7 @@ outputs:
 - html
 - rss
 - json
+
 ---
 <br />
 
