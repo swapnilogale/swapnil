@@ -1,6 +1,6 @@
 baseURL = "https://swapnilogale.github.io/"
 languageCode = "en-us"
-title = "Swapnil Portfolio"
+title = "Swapnil Ogale Portfolio"
 theme = "hugo-resume"
 googleAnalytics = "G-X13ZLN4TK9"
 customCSS = ["swaptheme.css"]
