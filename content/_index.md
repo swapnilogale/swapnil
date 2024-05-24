@@ -10,6 +10,7 @@ outputs:
 - json
 
 ---
+
 <br />
 
 I have over 17 years of technical writing experience, including 10 years of working remotely, in:
