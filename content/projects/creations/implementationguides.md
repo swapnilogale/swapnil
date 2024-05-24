@@ -40,5 +40,5 @@ Over the course of the project, I:
 
 ### Impact
 
-- Planned, took ownership, and managed various types of technical content around our soltuionss.
+- Planned, took ownership, and managed various types of technical content around our soltuions.
 - Delivered a range of improvements to the existing documentation creation experience by facilitating and trialling out new tools.
